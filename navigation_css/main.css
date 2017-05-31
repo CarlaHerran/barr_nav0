@@ -1,0 +1,60 @@
+.container {
+  margin: 0 auto;
+  width: 768px;
+  height: 700px;
+
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+nav {
+  width: 125px;
+  height: 700px;
+  background-color: #a9a9a9;
+  float: left;
+}
+
+.content {
+  height: 700px;
+  margin: 0 0 0px 0px;
+  margin-left: 140px;
+  font-size: 17px;
+  margin-bottom: 5px;
+}
+
+nav  a {
+  color: white;
+  text-align: left;
+
+}
+
+nav li {
+  padding-bottom: 12px;
+  text-align: left 10px;
+}
+
+ul {
+   list-style-type: none;
+   text-align: center;
+   padding-top: 5px;
+}
+
+li > a {
+  text-decoration: none;
+  color: white;
+  margin: 0 0 0px -40px;
+  font-size: 20px;
+
+}
+
+.footer {
+  margin: -30px 0 0px 140px;
+
+}
